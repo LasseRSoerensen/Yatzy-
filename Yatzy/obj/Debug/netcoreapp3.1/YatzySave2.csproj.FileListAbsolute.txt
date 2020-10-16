@@ -1,0 +1,26 @@
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.exe
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.deps.json
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.runtimeconfig.json
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.runtimeconfig.dev.json
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.dll
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.pdb
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.csproj.CoreCompileInputs.cache
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.AssemblyInfoInputs.cache
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.AssemblyInfo.cs
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.dll
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.pdb
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.genruntimeconfig.cache
+C:\Users\Lasse Sørensen\source\repos\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.csprojAssemblyReference.cache
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.exe
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.deps.json
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.runtimeconfig.json
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.runtimeconfig.dev.json
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.dll
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\bin\Debug\netcoreapp3.1\YatzySave2.pdb
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.csprojAssemblyReference.cache
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.csproj.CoreCompileInputs.cache
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.AssemblyInfoInputs.cache
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.AssemblyInfo.cs
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.dll
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.pdb
+C:\Users\Lasse Sørensen\Desktop\Goop exam\YatzySave2\YatzySave2\obj\Debug\netcoreapp3.1\YatzySave2.genruntimeconfig.cache
